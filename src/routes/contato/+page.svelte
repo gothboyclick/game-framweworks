@@ -5,31 +5,28 @@
 
 <main>
     <div>
-      <section >
-        <h1 align="center">Contatos</h1>
-        <p class="texto" align="center">Caso tenha dúvidas ou sugestões de melhorias sobre o jogo, 
+      <section class="rounded-md max-w-md mx-auto bg-gray-600  rounded-xl shadow-md overflow-hidden md:max-w-2xl">
+        <div class="md:flex">
+          <div class="md:shrink-0 px-5 py-3 ">
+            <h1 class="uppercase tracking-wide text-sm text-indigo-500 font-semibold" >Contatos</h1>
+            <p class="mt-2 text-slate-100" >Caso tenha dúvidas ou sugestões de melhorias sobre o jogo, 
            pode escolher  qualquer um<br> dos desenvolvedores abaixo, que responderemos o mais breve possível. <br>
            Será um prazer entrar em contato com você!</p>
         <br>
+          </div>
+        </div>
       </section>
 
-      <div class="">
+      <div class="mx-auto py-10">
         <!-- Inicio da bloco de perfil-->
-        <div class="">
-          <img class="" src="" alt="" />
-          <div>
-            <p align="center">Adriano Xavier Nobre Junior</p>
-      
-           <p align="center"><a href="https://www.linkedin.com/in/adriano-x-38692020a/ /"><img  class="imagem" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin"/></a>
-           <a  href="https://github.com/gothboyclick"><img  height="70"  src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg" alt="Github" /></a>
-           </p>  </div>
+        <div class="py-3 px-3 max-w-sm max-h-sm mx-auto bg-red rounded-md shadow-lg  py-4 flex dark:bg-red-300 justify-items-center">
+            <div class="space-y-3  text-center mx-auto">
+              <p class="text-md text-black font-semibold">Adriano Xavier Nobre Junior</p><br/>
+                <p class="text-slate-500 font-medium">
+                  DevOps
+                </p><br>
+                <a href="https://github.com/gothboyclick"><img class="imagem w-16 h-16 mx-auto my-auto md:p-0"  src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg" alt="Github" /></a></div>
+          </div>
         </div>
       </div>
-    </div>
-  </main>
-
-  <style>
-    .in{
-      padding-top:20px !important;
-    }
-  </style>
+  </main>  

@@ -30,10 +30,6 @@
 		flex: 0.6;
 	}
 
-	h1 {
-		width: 100%;
-	}
-
 	.box-game {
 		width: 900px;
 		height: 510px;

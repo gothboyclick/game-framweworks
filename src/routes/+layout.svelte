@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>Veja mais sobre o jogo <a href="#">SAMURAI KOMBAT</a> em nosso instagram. Obrigado!</p>
+		<p class="text-color-white">Veja mais sobre o jogo <a href="./sobre">SAMURAI KOMBAT</a> na aba Sobre. Obrigado!</p>
 	</footer>
 </div>
 
